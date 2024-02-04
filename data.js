@@ -88,7 +88,7 @@ var APP_DATA = {
         {
           "yaw": 1.9265128858039695,
           "pitch": 0.34585333592262657,
-          "title": "ASSECC ROAD TO SF-24",
+          "title": "ACCESS ROAD TO SF-24",
           "text": "Text"
         },
         {
